@@ -1,0 +1,23 @@
+Update 1:
+	Add New: Mega Menu,  Widget Before-After, Widget List Menus, Home 7,
+	Add New File: before-after.php, list-menu-item.php, before-after.js, 
+	Fixed: Some bugs on the demo theme, some bugs in the code, etc...
+	Improved: Improving some spacing of the text on the demo, functional few widgets
+	Update: Icon of Widget Accordions, 
+	File Update: elementor.js, script.js, style.css, accordions.php, functions.php, elementor.php, menu.php, elementor-widgets/widgets.php, header-widgets/widgets.php
+	
+Update 2:
+	Update widget process box ( Change field Icon Class to Icon Font ).
+	Update css for one page
+	Update file header-builder.php , content-header.php, content-vheader.php
+	Update Plugin OT Mega Menu -> update file script.js
+
+Update 3:
+	Add: css active link menu in Side Navigation
+	Add: home video, home full screen, home onepage, 404 page
+	Fix change Typography for theme in customizer
+	Fix bug portfolio ajax load more when use child theme
+	Improved: option customizer for page 404
+	Add option for widget post-carousel, post-grid, widget button
+	Update file: menu.php, style.css, customizer.php, color.php, template-function.php, post-carousel.php, post-grid.php, 404.php, header-builder.php, footer-builder.php, button.php, header-default.php, header-mobile.php, function.php
+	Remove file: content-404.php, content-footer.php
